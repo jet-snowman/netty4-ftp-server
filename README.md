@@ -1,4 +1,4 @@
-netty4-ftp-server
+netty 4 ftp server
 =================
 
 File Transfer Protocol (FTP) of RFC 959.
